@@ -1,0 +1,6 @@
+materials/
+*.bak
+.ipynb_checkpoints/
+__pycache__/
+.claude/
+Human_Activity_Recognition_Using_Smartphones_Data.csv
