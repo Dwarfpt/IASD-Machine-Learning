@@ -3,3 +3,4 @@ materials/
 .ipynb_checkpoints/
 __pycache__/
 .claude/
+*.txt
